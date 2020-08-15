@@ -3,5 +3,5 @@
  
  ### Console Output:
  
- ![GitHub Logo](Capture 1.JPG)
+ ![GitHub Logo](Capture_1.JPG)
 
