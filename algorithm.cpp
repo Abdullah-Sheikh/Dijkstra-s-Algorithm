@@ -1,3 +1,8 @@
+//Dijkstra-s-Algorithm
+//Write by Abdullah Sheikh
+//abdullahsh123@hotmail.com 
+//If you feel anything missing Please upgrade
+
 #include <iostream>
 using namespace std;
 
